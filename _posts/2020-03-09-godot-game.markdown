@@ -8,7 +8,9 @@ tags: [Godot]
 
 Доступ к игре по ссылке:
 
-  https://maxchernyaev.github.io/game.html
+[Тык][Тык]
+
+[Тык]: https://maxchernyaev.github.io/game.html
   
   кликнуть на экран, управлять стрелками клавиатуры
 
